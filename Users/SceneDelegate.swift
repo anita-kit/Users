@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Users
 //
-//  Created by Иван Сметанин on 01.06.2021.
+//  Created on 01.06.2021.
 //
 
 import UIKit

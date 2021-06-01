@@ -13,6 +13,7 @@
 		87EB6A752666838D00BF2840 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87EB6A732666838D00BF2840 /* Main.storyboard */; };
 		87EB6A772666838F00BF2840 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87EB6A762666838F00BF2840 /* Assets.xcassets */; };
 		87EB6A7A2666838F00BF2840 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87EB6A782666838F00BF2840 /* LaunchScreen.storyboard */; };
+		87EB6A8326668DB100BF2840 /* UserTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EB6A8226668DB100BF2840 /* UserTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		87EB6A762666838F00BF2840 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		87EB6A792666838F00BF2840 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		87EB6A7B2666838F00BF2840 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		87EB6A8226668DB100BF2840 /* UserTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				87EB6A6D2666838D00BF2840 /* AppDelegate.swift */,
 				87EB6A6F2666838D00BF2840 /* SceneDelegate.swift */,
 				87EB6A712666838D00BF2840 /* ViewController.swift */,
+				87EB6A8226668DB100BF2840 /* UserTableViewCell.swift */,
 				87EB6A732666838D00BF2840 /* Main.storyboard */,
 				87EB6A762666838F00BF2840 /* Assets.xcassets */,
 				87EB6A782666838F00BF2840 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				87EB6A8326668DB100BF2840 /* UserTableViewCell.swift in Sources */,
 				87EB6A722666838D00BF2840 /* ViewController.swift in Sources */,
 				87EB6A6E2666838D00BF2840 /* AppDelegate.swift in Sources */,
 				87EB6A702666838D00BF2840 /* SceneDelegate.swift in Sources */,
